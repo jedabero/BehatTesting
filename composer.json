@@ -1,0 +1,17 @@
+{
+    "name": "jedabero/behat-testing",
+    "description": "Behat test App",
+    "require-dev": {
+        "behat/behat": "~2.5",
+        "psr/log": "^1.0"
+    },
+    "config": {
+        "bin-dir": "bin/"
+    },
+    "authors": [
+        {
+            "name": "jedabero",
+            "email": "jedabero@hotmail.com"
+        }
+    ]
+}
