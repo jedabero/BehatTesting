@@ -1,3 +1,4 @@
 /bin/behat
 composer.lock
 /vendor
+/test
